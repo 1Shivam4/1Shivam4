@@ -2,7 +2,6 @@
 
 
 # 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working as a freelancer<br>🤝 I’m looking for help with building ERP like system<br>🌱 I’m currently learning DSA & AI/ML<br>💬 Ask me about coding<br>⚡ I love boring things
 
 
