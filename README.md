@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 💫 About Me:
 🔭 I’m currently working as a freelancer<br>🤝 I’m looking for help with building ERP like system<br>🌱 I’m currently learning DSA & AI/ML<br>💬 Ask me about coding<br>⚡ I love boring things
 
@@ -18,5 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=1Shivam4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
