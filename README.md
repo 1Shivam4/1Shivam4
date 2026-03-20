@@ -4,7 +4,6 @@
 
 I am a **Software Engineer** specializing in building scalable SaaS platforms and AI-enabled products. currently working at **FDC Innovation Labs**, where I build resilient backend systems using **Node.js, Redis, and AWS**.
 
-- 🔭 I’m currently working on a **Multi-platform Social Media SaaS** ("Yukti").
 - 🌱 I’m currently learning **NestJS** and **Advanced AWS Architecture**.
 - 👯 I’m looking to collaborate on **Open Source SaaS projects**.
 - 💬 Ask me about **MERN Stack, System Design, and Cloud Native Apps**.
