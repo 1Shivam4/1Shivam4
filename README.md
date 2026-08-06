@@ -1,56 +1,101 @@
-# Hi there, I'm Shivam Sahni! 👋
+# Hi, I'm Shivam Sahni 👋
 
-### 🚀 Full Stack Engineer | SaaS Builder | AI Enthusiast
+### Backend-Focused Full Stack Engineer • TypeScript • Node.js • AWS
 
-I am a **Software Engineer** specializing in building scalable SaaS platforms and AI-enabled products. currently working at **FDC Innovation Labs**, where I build resilient backend systems using **Node.js, Redis, and AWS**.
+## About Me
 
-- 🌱 I’m currently learning **NestJS** and **Advanced AWS Architecture**.
-- 👯 I’m looking to collaborate on **Open Source SaaS projects**.
-- 💬 Ask me about **MERN Stack, System Design, and Cloud Native Apps**.
+I enjoy building scalable backend systems, solving algorithmic problems, and turning ideas into production-ready SaaS products. I'm currently focused on becoming an expert backend engineer by mastering distributed systems, cloud architecture, and low-level system design.
 
----
+Currently, I work on production-grade applications using **Node.js, TypeScript, NestJS, PostgreSQL, Redis, AWS, and Prisma**, focusing on performance, scalability, and clean architecture.
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### **Backend & APIs**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### **Databases & Caching**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Outside of work, I'm sharpening my **Data Structures & Algorithms**, exploring **System Design**, and building products that solve real-world problems.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 What I'm Working On
+
+- 🔨 Building **Convert-it** — a modern file conversion platform built with Next.js
+- 📚 Mastering **Advanced DSA** for backend engineering interviews
+- ☁️ Learning **AWS Architecture** and distributed systems
+- 🦫 Exploring **Go** for high-performance backend services
+- 🌱 Contributing toward becoming a stronger backend engineer
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+---
+
+## Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun)
+
+---
+
+# 📌 Featured Projects
 
 | Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Yukti (SaaS)** | A social media management tool integrating FB, Insta, LinkedIn & YouTube. Handles high-volume scheduling via message queues. | `Node.js` `BullMQ` `Redis` `AWS` |
-| **CB Freelancers** | A full-stack marketplace with role-based access, payment integration, and secure admin dashboards. | `React` `Node.js` `MongoDB` `Stripe` |
-| **Diabetes Prediction** | ML-powered system using AdaBoost on 150K+ records for early risk detection. | `Python` `Flask` `Scikit-learn` |
+|----------|-------------|-------|
+| **Convert-it** | Modern file conversion platform supporting multiple document and media conversions with a scalable backend architecture. | Next.js • Node.js • Redis • PostgreSQL |
+| **Yukti** | Enterprise social media management platform supporting scheduling, queues, and multi-platform publishing. | Node.js • BullMQ • Redis • AWS |
+| **CB Freelancers** | Freelance marketplace with authentication, payments, role-based access, and admin dashboards. | MERN • Stripe |
+| **Diabetes Prediction** | Machine Learning project using AdaBoost trained on 150K+ healthcare records. | Python • Scikit-learn |
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Currently Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Shivam4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Shivam4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Shivam4&theme=dark&hide_border=true" alt="streak graph" />
-</div>
+- Advanced Data Structures & Algorithms
+- System Design
+- Distributed Systems
+- AWS
+- Go
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-sahni-132354227/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahnishivam/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShivamS89244907) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivam.zii)
+(keep your existing stats)
 
-[![](https://visitcount.itsvg.in/api?id=1Shivam4&icon=6&color=0)](https://visitcount.itsvg.in)
+---
+
+# 🤝 Connect With Me
+
+(keep your social links)
